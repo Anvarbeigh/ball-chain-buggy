@@ -1,0 +1,6 @@
+Ball & Chain Buggy — third-party assets
+
+Sounds: Kenney (www.kenney.nl), CC0 1.0 (public domain): Impact Sounds, Interface Sounds, Music Jingles
+Font: Rubik, SIL Open Font License 1.1 (see fonts/OFL.txt)
+Engine: three.js r160, MIT License
+3D models, textures and music: made in code for this game
